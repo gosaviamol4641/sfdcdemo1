@@ -8,4 +8,9 @@ public with sharing class myclass {
         //please do chnages here 
         
     }
+
+    public   static void salarycal2() {
+        //please do chnages here 
+        
+    }
 }
