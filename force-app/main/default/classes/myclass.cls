@@ -17,4 +17,7 @@ public with sharing class myclass {
         //please do chnages here 
         
     }
+
+
+    //addd new classs
 }
